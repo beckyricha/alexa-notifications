@@ -3,5 +3,4 @@ This is a skill in progress.  Setting up placeholder pages for now.  The idea wi
 
 The skill also requires my privacy policy, which is that I'm not saving, reading, or storing anything about you.  Google and Amazon have their own privacy policies, and you have to authorize those two to talk with each other to make the skill work, but this skill isn't logging anything about you.
 
-I hope to post more detailed setup instructions when it's ready.
-
+I will post more detailed setup instructions when it's ready.
