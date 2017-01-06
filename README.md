@@ -4,3 +4,5 @@ This is a skill in progress.  Setting up placeholder pages for now.  The idea wi
 The skill also requires my privacy policy, which is that I'm not saving, reading, or storing anything about you.  Google and Amazon have their own privacy policies, and you have to authorize those two to talk with each other to make the skill work, but this skill isn't logging anything about you.
 
 I will post more detailed setup instructions when it's ready.
+
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=ae042d4b-1dc0-49c9-bdcb-c75f357c93af&storeId=seniorhacks-20"></script>
